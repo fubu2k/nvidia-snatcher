@@ -161,6 +161,54 @@ export const Alternate: Store = {
 			model: 'ichill x4',
 			series: '3080',
 			url: 'https://www.alternate.de/product/1673134'
+		},
+		{
+			brand: 'asus',
+			model: 'tuf oc gaming',
+			series: '3090',
+			url: 'https://www.alternate.de/product/1672629'
+		},
+		{
+			brand: 'asus',
+			model: 'tuf gaming',
+			series: '3090',
+			url: 'https://www.alternate.de/product/1672259'
+		},
+		{
+			brand: 'msi',
+			model: 'gaming x trio',
+			series: '3090',
+			url: 'https://www.alternate.de/product/1672341'
+		},
+		{
+			brand: 'asus',
+			model: 'rog strix oc gaming',
+			series: '3090',
+			url: 'https://www.alternate.de/product/1672872'
+		},
+		{
+			brand: 'evga',
+			model: 'ftw3 ultra gaming',
+			series: '3090',
+			url: 'https://www.alternate.de/product/1673531'
+		},
+				{
+			brand: 'asus',
+			model: 'rog strix gaming',
+			series: '3090',
+			url: 'https://www.alternate.de/product/1672870'
+		},
+		{
+			brand: 'evga',
+			model: 'ftw3 gaming',
+			series: '3090',
+			url: 'https://www.alternate.de/product/1673530'
+		},
+		{
+			brand: 'gigabyte',
+			model: 'aorus master',
+			series: '3090',
+			url: 'https://www.alternate.de/product/1680670'
 		}
 	],
 	name: 'alternate'
